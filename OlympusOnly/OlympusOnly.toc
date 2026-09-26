@@ -1,7 +1,7 @@
 ## Interface: 16001, 11509, 11510, 20504, 30403, 38000, 40402, 50500, 110007, 120100
 ## Title: OlympusOnly
 ## Notes: Hide chat and invites from players who are not in the OLYMPUS federation. Blacklists anyone whose guild name does not start with OLYMPUS.
-## Author: OlympusOnly
+## Author: Zeus
 ## Version: 1.0.1
 ## SavedVariables: OlympusOnlyDB
 ## DefaultState: enabled
